@@ -1,0 +1,100 @@
+Program was executed at datetime  بدھ اپريل 8 22:45:01 PKT 2020
+-------------------------------------------------
+The Total Available Memory is 7.37324 GBs 
+-------------------------------------------------
+The Total Available CPUs are 4
+-------------------------------------------------
+The Total Available Storage for each mount is the followings
+Total Storage Space in Mount /dev is 3755MBs
+Total Storage Space in Mount /run is 738MBs
+Total Storage Space in Mount / is 16616MBs
+Total Storage Space in Mount /dev/shm is 3694MBs
+Total Storage Space in Mount /run/lock is 5MBs
+Total Storage Space in Mount /sys/fs/cgroup is 3776MBs
+Total Storage Space in Mount /home is 20450MBs
+Total Storage Space in Mount /run/user/1000 is 755MBs
+Total Storage Space in Mount /media/alizar-hmiv/B68CB6AB8CB66611 is 217433MBs
+Total Storage Space in Mount /media/alizar-hmiv/New is 142735MBs 
+-------------------------------------------------
+$Listen_ports
+root         0 Xorg             1070  1.0
+root         0 systemd             1  0.0
+root         0 kthreadd            2  0.0
+root         0 ksoftirqd/0         3  0.0
+root         0 kworker/0:0H        5  0.0
+root         0 rcu_sched           7  0.0
+-------------------------------------------------
+
+logs 1M
+.bash_history 1M
+examples.desktop 1M
+DevOps_Assignment.zip 1M
+Task1.sh 1M
+Task2.sh 1M
+. 1M
+.. 1M
+.cache 1M
+.config 1M
+Desktop 1M
+Documents 1M
+Downloads 1M
+.gconf 1M
+.gnupg 1M
+.local 1M
+.mozilla 1M
+Music 1M
+.nano 1M
+Pictures 1M
+Public 1M
+Templates 1M
+Videos 1M
+.bashrc 1M
+{$dir}log_file.txt 1M
+test.sh.save 1M
+Task2.sh.save 1M
+$dirlog_file.txt 1M
+log_file_1.txt 1M
+(2020-04-08.15:28:02)log_file.txt 1M
+crontab 1M
+da 1M
+.profile 1M
+Cron 1M
+Untitled 1M
+.ICEauthority 1M
+log_file.txt 1M
+.bash_logout 1M
+.wget-hsts 1M
+.xsession-errors 1M
+.Xauthority 1M
+.selected_editor 1M
+cron.sh 1M
+.dmrc 1M
+1Total 1M
+cron 0M
+mylogfile.txt 0M
+.sudo_as_admin_successful 0M
+test 0M 
+-------------------------------------------------
+firmware 1M
+x86_64-linux-gnu 1M
+. 1M
+.. 1M
+apparmor 1M
+brltty 1M
+crda 1M
+hdparm 1M
+ifupdown 1M
+init 1M
+linux-sound-base 1M
+lsb 1M
+modprobe.d 1M
+modules 1M
+recovery-mode 1M
+resolvconf 1M
+systemd 1M
+sysvinit 1M
+terminfo 1M
+udev 1M
+ufw 1M
+xtables 1M 
+-------------------------------------------------

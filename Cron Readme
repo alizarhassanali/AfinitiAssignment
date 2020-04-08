@@ -1,0 +1,18 @@
+Go to Terminal
+crontab -e
+will open crontab editable file (select your editor to open the file)
+add the following line to the end of file.
+
+*/5 * * * * bash <path to Task2.sh>/Task2.sh 
+
+
+
+Notes:
+* means every
+First * is for Mins (*/5 means every 5 mins) (0-59)
+Second * is for Hours (1-24)
+Third * is for days in a month (1-30)
+Fourth * is for month (1-12)
+Fifth * is for days in a week (1-7)
+
+
