@@ -1,0 +1,19 @@
+Program was executed at datetime  بدھ اپريل 8 23:30:21 PKT 2020
+Task number selected by user 3
+User name entered was lp
+lp           7 dbus            20060  0.0 ? بدھ اپريل 8 23:30:29 PKT 2020
+-------------------------------------------------
+Program was executed at datetime  بدھ اپريل 8 23:30:33 PKT 2020
+Task number selected by user 2
+The Total Available Storage for each mount is the followings
+Total Storage Space in Mount /dev is 3755MBs
+Total Storage Space in Mount /run is 738MBs
+Total Storage Space in Mount / is 16588MBs
+Total Storage Space in Mount /dev/shm is 3700MBs
+Total Storage Space in Mount /run/lock is 5MBs
+Total Storage Space in Mount /sys/fs/cgroup is 3776MBs
+Total Storage Space in Mount /home is 20449MBs
+Total Storage Space in Mount /run/user/1000 is 755MBs
+Total Storage Space in Mount /media/alizar-hmiv/B68CB6AB8CB66611 is 217433MBs
+Total Storage Space in Mount /media/alizar-hmiv/New is 142735MBs بدھ اپريل 8 23:30:34 PKT 2020
+-------------------------------------------------
